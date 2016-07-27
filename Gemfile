@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
+gem 'simple_form'
 gem 'sprockets', '2.11.0'
-gem 'sass-rails' 
+gem 'sass-rails'
 #Edit made by student
 gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -41,4 +42,3 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
